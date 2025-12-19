@@ -60,7 +60,7 @@ console.log("More than you know");`,
 import { Forgiveness } from 'hope';
 
 await SecondChance.request();`,
-    message: "I know I don't deserve it, but I'm hoping you'll give me one more chance to make things right. I'll do whatever it takes."
+    message: "I'm hoping you'll give me one more chance to make things right. I'll do whatever it takes."
   },
   {
     code: `function myHeart() {
