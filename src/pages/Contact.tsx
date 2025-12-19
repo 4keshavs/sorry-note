@@ -7,8 +7,8 @@ const Contact = () => {
   const [showMessage, setShowMessage] = useState(false);
 
   // Replace these with your actual contact info
-  const phoneNumber = "YOUR_PHONE_NUMBER"; // e.g., "+911234567890"
-  const whatsappNumber = "YOUR_WHATSAPP_NUMBER"; // e.g., "911234567890" (without +)
+  const phoneNumber = "+919326005217";
+  const whatsappNumber = "919326005217";
 
   const handleCall = () => {
     window.open(`tel:${phoneNumber}`, '_self');
